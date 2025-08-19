@@ -1,5 +1,5 @@
-# m4a_to_wav
-Convert m4a file to wav file in python
+# m4a_to_wav using ffmpeg (Media Transcoding)
+Convert m4a file to wav file in python 
 # M4A to WAV Converter
 
 This Python script converts all `.m4a` files in a specified directory to `.wav` format using FFmpeg.
